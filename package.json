@@ -1,0 +1,24 @@
+{
+  "name": "todo",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "tailwindcss": "^1.6.1",
+    "vue": "^3.0.0-rc.5"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.7.1",
+    "@typescript-eslint/parser": "^3.7.1",
+    "@vue/compiler-sfc": "^3.0.0-rc.5",
+    "eslint": "^7.6.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-vue": "^7.0.0-beta.1",
+    "prettier": "^2.0.5",
+    "typescript": "^3.9.7",
+    "vite": "^1.0.0-rc.4"
+  }
+}
