@@ -4,8 +4,20 @@
 </template>
 
 <script setup="props" lang="ts">
-/* eslint-disable import/prefer-default-export */
 import { ref } from 'vue'
+// import { useQuery } from '@vue/apollo-composable'
+// import gql from 'graphql-tag'
+
+// const { result } = useQuery(gql`
+//   query Todos {
+//     todos {
+//       id
+//       text
+//     }
+//   }
+// `)
+
+// console.log(result)
 
 declare const props: {
   msg: string

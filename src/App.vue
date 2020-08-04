@@ -12,10 +12,10 @@ export default defineComponent({
     HelloWorld,
   },
   setup() {
-    const add = (num: number) => {
-      console.log(num + 3)
-    }
-    add(2)
+    // const add = (num: number) => {
+    //   console.log(num + 3)
+    // }
+    // add(2)
   },
 })
 </script>
